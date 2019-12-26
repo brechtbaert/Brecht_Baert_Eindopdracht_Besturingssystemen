@@ -1,0 +1,17 @@
+F:\PC_Brecht\School\HoWest\Besturingssystemen\HoWestPost_startproject\HoWestPost\HoWestPost.UI\obj\Debug\HoWestPost.UI.csprojAssemblyReference.cache
+F:\PC_Brecht\School\HoWest\Besturingssystemen\HoWestPost_startproject\HoWestPost\HoWestPost.UI\obj\Debug\MainWindow.g.cs
+F:\PC_Brecht\School\HoWest\Besturingssystemen\HoWestPost_startproject\HoWestPost\HoWestPost.UI\obj\Debug\App.g.cs
+F:\PC_Brecht\School\HoWest\Besturingssystemen\HoWestPost_startproject\HoWestPost\HoWestPost.UI\obj\Debug\HoWestPost.UI_MarkupCompile.cache
+F:\PC_Brecht\School\HoWest\Besturingssystemen\HoWestPost_startproject\HoWestPost\HoWestPost.UI\obj\Debug\HoWestPost.UI_MarkupCompile.lref
+F:\PC_Brecht\School\HoWest\Besturingssystemen\HoWestPost_startproject\HoWestPost\HoWestPost.UI\bin\Debug\HoWestPost.UI.exe.config
+F:\PC_Brecht\School\HoWest\Besturingssystemen\HoWestPost_startproject\HoWestPost\HoWestPost.UI\bin\Debug\HoWestPost.UI.exe
+F:\PC_Brecht\School\HoWest\Besturingssystemen\HoWestPost_startproject\HoWestPost\HoWestPost.UI\bin\Debug\HoWestPost.UI.pdb
+F:\PC_Brecht\School\HoWest\Besturingssystemen\HoWestPost_startproject\HoWestPost\HoWestPost.UI\bin\Debug\HoWestPost.Domain.dll
+F:\PC_Brecht\School\HoWest\Besturingssystemen\HoWestPost_startproject\HoWestPost\HoWestPost.UI\bin\Debug\HoWestPost.Domain.pdb
+F:\PC_Brecht\School\HoWest\Besturingssystemen\HoWestPost_startproject\HoWestPost\HoWestPost.UI\obj\Debug\MainWindow.baml
+F:\PC_Brecht\School\HoWest\Besturingssystemen\HoWestPost_startproject\HoWestPost\HoWestPost.UI\obj\Debug\HoWestPost.UI.g.resources
+F:\PC_Brecht\School\HoWest\Besturingssystemen\HoWestPost_startproject\HoWestPost\HoWestPost.UI\obj\Debug\HoWestPost.UI.Properties.Resources.resources
+F:\PC_Brecht\School\HoWest\Besturingssystemen\HoWestPost_startproject\HoWestPost\HoWestPost.UI\obj\Debug\HoWestPost.UI.csproj.GenerateResource.cache
+F:\PC_Brecht\School\HoWest\Besturingssystemen\HoWestPost_startproject\HoWestPost\HoWestPost.UI\obj\Debug\HoWestPost.UI.csproj.CopyComplete
+F:\PC_Brecht\School\HoWest\Besturingssystemen\HoWestPost_startproject\HoWestPost\HoWestPost.UI\obj\Debug\HoWestPost.UI.exe
+F:\PC_Brecht\School\HoWest\Besturingssystemen\HoWestPost_startproject\HoWestPost\HoWestPost.UI\obj\Debug\HoWestPost.UI.pdb

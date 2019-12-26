@@ -1,0 +1,7 @@
+F:\PC_Brecht\School\HoWest\Besturingssystemen\HoWestPost_startproject\HoWestPost\HoWestPost.Domain\bin\Debug\netstandard2.0\HoWestPost.Domain.deps.json
+F:\PC_Brecht\School\HoWest\Besturingssystemen\HoWestPost_startproject\HoWestPost\HoWestPost.Domain\bin\Debug\netstandard2.0\HoWestPost.Domain.dll
+F:\PC_Brecht\School\HoWest\Besturingssystemen\HoWestPost_startproject\HoWestPost\HoWestPost.Domain\bin\Debug\netstandard2.0\HoWestPost.Domain.pdb
+F:\PC_Brecht\School\HoWest\Besturingssystemen\HoWestPost_startproject\HoWestPost\HoWestPost.Domain\obj\Debug\netstandard2.0\HoWestPost.Domain.AssemblyInfoInputs.cache
+F:\PC_Brecht\School\HoWest\Besturingssystemen\HoWestPost_startproject\HoWestPost\HoWestPost.Domain\obj\Debug\netstandard2.0\HoWestPost.Domain.AssemblyInfo.cs
+F:\PC_Brecht\School\HoWest\Besturingssystemen\HoWestPost_startproject\HoWestPost\HoWestPost.Domain\obj\Debug\netstandard2.0\HoWestPost.Domain.dll
+F:\PC_Brecht\School\HoWest\Besturingssystemen\HoWestPost_startproject\HoWestPost\HoWestPost.Domain\obj\Debug\netstandard2.0\HoWestPost.Domain.pdb
