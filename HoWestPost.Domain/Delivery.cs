@@ -18,9 +18,18 @@ namespace HoWestPost.Domain
         {
             int Id = aantalPackages + 1;
 
-            Package nieuw = new Package(Id, Type, Reistijd, Prior);
-            aantalPackages += 1;
-            Packages.Add(nieuw);
+            if (Prior == 0)
+            {
+                Package nieuw = new Package(Id, Type, Reistijd, Prior);
+                aantalPackages += 1;
+                Packages.Add(nieuw);
+
+            }
+            else if (Prior == 1) {
+                Package nieuw = new Package(Id, Type, Reistijd, Prior);
+                aantalPackages += 1;
+                Packages.Insert(0, nieuw);
+            }
         }
     }
 }

@@ -5,3 +5,11 @@ F:\PC_Brecht\School\HoWest\Besturingssystemen\HoWestPost_startproject\HoWestPost
 F:\PC_Brecht\School\HoWest\Besturingssystemen\HoWestPost_startproject\HoWestPost\HoWestPost.Domain\obj\Debug\netstandard2.0\HoWestPost.Domain.AssemblyInfo.cs
 F:\PC_Brecht\School\HoWest\Besturingssystemen\HoWestPost_startproject\HoWestPost\HoWestPost.Domain\obj\Debug\netstandard2.0\HoWestPost.Domain.dll
 F:\PC_Brecht\School\HoWest\Besturingssystemen\HoWestPost_startproject\HoWestPost\HoWestPost.Domain\obj\Debug\netstandard2.0\HoWestPost.Domain.pdb
+D:\PC_Brecht\School\HoWest\Besturingssystemen\Brecht_Baert_Eindopdracht_Besturingssystemen\HoWestPost.Domain\bin\Debug\netstandard2.0\HoWestPost.Domain.deps.json
+D:\PC_Brecht\School\HoWest\Besturingssystemen\Brecht_Baert_Eindopdracht_Besturingssystemen\HoWestPost.Domain\bin\Debug\netstandard2.0\HoWestPost.Domain.dll
+D:\PC_Brecht\School\HoWest\Besturingssystemen\Brecht_Baert_Eindopdracht_Besturingssystemen\HoWestPost.Domain\bin\Debug\netstandard2.0\HoWestPost.Domain.pdb
+D:\PC_Brecht\School\HoWest\Besturingssystemen\Brecht_Baert_Eindopdracht_Besturingssystemen\HoWestPost.Domain\obj\Debug\netstandard2.0\HoWestPost.Domain.csprojAssemblyReference.cache
+D:\PC_Brecht\School\HoWest\Besturingssystemen\Brecht_Baert_Eindopdracht_Besturingssystemen\HoWestPost.Domain\obj\Debug\netstandard2.0\HoWestPost.Domain.AssemblyInfoInputs.cache
+D:\PC_Brecht\School\HoWest\Besturingssystemen\Brecht_Baert_Eindopdracht_Besturingssystemen\HoWestPost.Domain\obj\Debug\netstandard2.0\HoWestPost.Domain.AssemblyInfo.cs
+D:\PC_Brecht\School\HoWest\Besturingssystemen\Brecht_Baert_Eindopdracht_Besturingssystemen\HoWestPost.Domain\obj\Debug\netstandard2.0\HoWestPost.Domain.dll
+D:\PC_Brecht\School\HoWest\Besturingssystemen\Brecht_Baert_Eindopdracht_Besturingssystemen\HoWestPost.Domain\obj\Debug\netstandard2.0\HoWestPost.Domain.pdb

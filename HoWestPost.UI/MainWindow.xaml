@@ -26,6 +26,7 @@
         <TextBox x:Name="txtType" HorizontalAlignment="Left" Height="23" Margin="792,261,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
         <TextBox x:Name="txtPrior" HorizontalAlignment="Left" Height="23" Margin="792,289,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
         <TextBox x:Name="txtResterend" HorizontalAlignment="Left" Height="23" Margin="792,317,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Image x:Name="imgPakket" HorizontalAlignment="Left" Height="127" VerticalAlignment="Top" Width="212" Margin="743,55,0,0" Stretch="Fill"/>
     </Grid>
 
 </Window>

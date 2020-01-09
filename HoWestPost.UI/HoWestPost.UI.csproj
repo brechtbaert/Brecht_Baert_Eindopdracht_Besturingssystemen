@@ -100,5 +100,11 @@
       <Name>HoWestPost.Domain</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Resource Include="Images\Maxi.jpg" />
+    <Resource Include="Images\Mini.jpg" />
+    <Resource Include="Images\Standaard.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
